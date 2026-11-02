@@ -1,0 +1,6 @@
+id,name,department,type,mark1,mark2,mark3
+S201,Ishita Rao,ECE,SCHOLARSHIP,91,94,89
+S202,Vikram Singh,ECE,REGULAR,58,62,64
+S203,Neha Gupta,ECE,REGULAR,76,81,79
+S204,Arjun Patel,ECE,REGULAR,110,70,60
+S201,Duplicate Person,ECE,REGULAR,50,50,50
